@@ -1,0 +1,17 @@
+{
+  "name": "provinces_zm",
+  "version": "1.0.0",
+  "description": "JSON formatted provinces and districts (with area codes) of Zambia.",
+  "main": "provinces_zm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "provinces",
+    "districts",
+    "zambia",
+    "cholasimmons"
+  ],
+  "author": "JustChola",
+  "license": "ISC"
+}
