@@ -1,7 +1,7 @@
 module.export = {
 	"Country": "Zambia",
 	"Code": 260,
-	"Provinces": {
+	"Provinces": [{
 		"Name": "Central",
 		"Code": 01,
 		"Capital": "Kabwe",
@@ -18,5 +18,5 @@ module.export = {
 			"Name": "Chililabombwe",
 			"Capital": "Chililabombwe"
 		}
-	}
+	}]
 }
